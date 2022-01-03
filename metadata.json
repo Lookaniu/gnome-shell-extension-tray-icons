@@ -1,8 +1,8 @@
 {
-  "uuid": "tray-icons@zhangkaizhao.com",
+  "uuid": "tray-icons@Lookaniu",
   "name": "Tray Icons",
   "description": "Tray icons",
-  "url": "https://github.com/zhangkaizhao/gnome-shell-extension-tray-icons",
+  "url": "https://github.com/Lookaniu/gnome-shell-extension-tray-icons",
   "shell-version": [
     "3.30",
     "3.32.2",
